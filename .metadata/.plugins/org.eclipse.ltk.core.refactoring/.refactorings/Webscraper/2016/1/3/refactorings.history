@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Webscraper/desktop/py/scripts/pricelist/pricelist/spiders/Sainsbury_product_scrapy.py&apos; to &apos;productspider.py&apos;" description="Rename resource &apos;Sainsbury_product_scrapy.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="desktop/py/scripts/pricelist/pricelist/spiders/Sainsbury_product_scrapy.py" name="productspider.py" stamp="1453286374371" updateReferences="true"/>
+</session>
